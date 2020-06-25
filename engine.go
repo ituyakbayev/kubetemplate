@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CyCoreSystems/kubetemplate/resource"
-	"github.com/CyCoreSystems/netdiscover/discover"
+	"github.com/ituyakbayev/kubetemplate/resource"
+	"github.com/ituyakbayev/netdiscover/discover"
 	"github.com/ericchiang/k8s"
 	v1 "github.com/ericchiang/k8s/apis/core/v1"
 )
